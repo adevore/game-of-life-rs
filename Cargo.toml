@@ -1,0 +1,4 @@
+[package]
+name = "solo"
+version = "0.1.0"
+authors = ["Aaron DeVore <aaron.devore@gmail.com>"]
