@@ -1,4 +1,4 @@
 [package]
-name = "solo"
+name = "game-of-life"
 version = "0.1.0"
 authors = ["Aaron DeVore <aaron.devore@gmail.com>"]
